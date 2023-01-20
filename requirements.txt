@@ -1,0 +1,5 @@
+flask[async]
+neo4j
+dotenv
+asyncio
+neo4j-driver-async
